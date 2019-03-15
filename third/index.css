@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .row-big {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .row-1 {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .row-1-div {
+    width: 50px;
+    height: 50px;
+    background-color: #4A90E2;
+  }
+  
+  .white {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .blue {
+    background-color: rgb(52, 134, 228);
+  }
+  
+  .seafoam {
+    background-color: rgb(76, 203, 175);
+  }
+  
+  .avacado {
+    background-color: rgb(166, 206, 127);
+  }
+  
+  .yellow {
+    background-color: rgb(227, 210, 32);
+  }
